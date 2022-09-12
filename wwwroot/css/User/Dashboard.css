@@ -1,0 +1,15 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.contain {
+    width: 80%;
+}
+
+.header {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
