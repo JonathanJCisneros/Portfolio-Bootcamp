@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Portfolio
 build_property.RootNamespace = Portfolio
-build_property.ProjectDir = c:\Users\jonat\OneDrive\Documents\Software Development\Portfolio\Portfolio\
+build_property.ProjectDir = C:\Users\jonat\OneDrive\Documents\Software Development\Portfolio\Portfolio\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\jonat\OneDrive\Documents\Software Development\Portfolio\Portfolio
+build_property.MSBuildProjectDirectory = C:\Users\jonat\OneDrive\Documents\Software Development\Portfolio\Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/Portfolio/PortfolioHome.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/Portfolio/PortfolioHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFBvcnRmb2xpb0hvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/Portfolio/_Inquiry.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/Portfolio/_Inquiry.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXF9JbnF1aXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Dashboard.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Login.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Register.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/_ViewImports.cshtml]
+[C:/Users/jonat/OneDrive/Documents/Software Development/Portfolio/Portfolio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
